@@ -55,7 +55,7 @@ No explanation will be provided for rejected submissions.
 All chronicles must follow this structure:
 
 ```
-# JHI-[NUMBER] — [TITLE]
+# PHI-[NUMBER] — [TITLE]
 
 **Category:** [Location / Entity / Object / Event] Interaction  
 **Risk Level:** [Negligible / Low / Moderate / High / Critical]  
@@ -74,9 +74,9 @@ All chronicles must follow this structure:
 ## Records
 
 [List attached records using the standard suffix format]
-- JHI-[NUMBER]-INT01
-- JHI-[NUMBER]-I01
-- JHI-[NUMBER]-PR01
+- pHI-[NUMBER]-INT01
+- PHI-[NUMBER]-I01
+- PHI-[NUMBER]-PR01
 etc.
 
 ---
