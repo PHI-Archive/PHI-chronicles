@@ -17,10 +17,10 @@ No prior affiliation with TIPA is required.
 
 TIPA accepts chronicles covering the following interaction categories:
 
-- **Location Interaction** — A recurring paranatural interaction tied to a specific place.
-- **Entity Interaction** — An interaction involving a sentient non-human presence. This includes but is not limited to Jinn, Yokai, Dokkaebi, and all regional equivalents. Any sentient presence capable of intentional good or harm qualifies for documentation regardless of its local designation.
-- **Object Interaction** — An interaction associated with a physical object.
-- **Event Interaction** — A recurring or spontaneous paranatural phenomenon.
+- **Location Interaction**: A recurring paranatural interaction tied to a specific place.
+- **Entity Interaction**: An interaction involving a sentient non-human presence. This includes but is not limited to Jinn, Yokai, Dokkaebi, and all regional equivalents. Any sentient presence capable of intentional good or harm qualifies for documentation regardless of its local designation.
+- **Object Interaction**: An interaction associated with a physical object.
+- **Event Interaction**: A recurring or spontaneous paranatural phenomenon.
 
 Chronicles may document more than one category where evidence supports it.
 
