@@ -74,7 +74,7 @@ All chronicles must follow this structure:
 ## Records
 
 [List attached records using the standard suffix format]
-- pHI-[NUMBER]-INT01
+- PHI-[NUMBER]-INT01
 - PHI-[NUMBER]-I01
 - PHI-[NUMBER]-PR01
 etc.
