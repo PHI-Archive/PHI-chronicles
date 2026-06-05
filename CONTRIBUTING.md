@@ -32,7 +32,7 @@ The following are outside the scope of TIPA's mandate and will not be accepted u
 
 - Any interaction framed as divine, holy, or involving a supreme being or deity in any religious tradition.
 - Any entity presented as an angel or equivalent divine messenger.
-- Any chronicle whose primary subject is the nature or existence of God or gods.
+- Any chronicle whose primary subject is the nature of the devine.
 
 TIPA does not investigate the divine. TIPA documents interactions.
 
